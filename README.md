@@ -4,5 +4,9 @@ This repository contains work samples and completed tasks for the Data Managemen
 helloworld.py: Required Hello World program
 
 server.R: file used in the MANOVA power calculation Shiny App
+
+
 ui.R: file used in the MANOVA power calculation Shiny App
+
+
 App can be found at: https://gailfish.shinyapps.io/manovapower/ 
